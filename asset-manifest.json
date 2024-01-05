@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.be288ac2.js",
-    "index.html": "/index.html",
-    "main.be288ac2.js.map": "/static/js/main.be288ac2.js.map"
+    "main.js": "/stateful-ui/static/js/main.be288ac2.js",
+    "index.html": "/stateful-ui/index.html",
+    "main.be288ac2.js.map": "/stateful-ui/static/js/main.be288ac2.js.map"
   },
   "entrypoints": [
     "static/js/main.be288ac2.js"
